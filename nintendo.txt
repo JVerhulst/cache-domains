@@ -11,3 +11,8 @@ receive-lp1.dg.srv.nintendo.net
 *.wup.eshop.nintendo.net
 *.hac.lp1.d4c.nintendo.net
 *.hac.lp1.eshop.nintendo.net
+pushmo.hac.lp1.eshop.nintendo.net
+aqua.hac.lp1.d4c.nintendo.net
+atum.hac.lp1.d4c.nintendo.net
+bugyo.hac.lp1.eshop.nintendo.net
+tagaya.hac.lp1.eshop.nintendo.net
