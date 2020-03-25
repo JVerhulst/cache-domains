@@ -1,6 +1,11 @@
 {
 	"cache_domains": [
 		{
+			"name": "apple",
+			"description": "CDN for apple",
+			"domain_files": ["apple.txt"]
+		},
+		{
 			"name": "arenanet",
 			"description": "CDN for guild wars, HoT",
 			"domain_files": ["arenanet.txt"]
@@ -36,9 +41,19 @@
 			"domain_files": ["frontier.txt"]
 		},
 		{
+			"name": "gog",
+			"description": "CDN for gog",
+			"domain_files": ["gog.txt"]
+		},
+		{
 			"name": "hirez",
 			"description": "CDN for hirez",
 			"domain_files": ["hirez.txt"]
+		},
+		{
+			"name": "minecraft",
+			"description": "CDN for minecraft",
+			"domain_files": ["minecraft.txt"]
 		},
 		{
 			"name": "nexusmods",
